@@ -41,6 +41,9 @@ Expressions are parsed by math.js, never run as JavaScript. Calls such as `impor
 
 Framer Motion and Tailwind are not used; styling is plain CSS. Root finding looks for sign changes, so it can miss roots where a curve only touches zero (like x²). Screenshots are not generated; add yours to `screenshots/`.
 
+[🚀 Live Demo](https://barath-codes-007.github.io/calyx/)
+
+
 ## License
 
 MIT. See `LICENSE`.
